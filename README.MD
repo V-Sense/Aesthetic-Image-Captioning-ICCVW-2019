@@ -1,13 +1,13 @@
  
  # Aesthetic Image Captioning from Weakly-Labelled Photographs
  ### Koustav Ghosal, Aakanksha Rana, Aljosa Smolic
- ###### Published at: International Workshop on Cross-Modal Learning in Real World , ICCV 2019 
+ ###### Published at: [International Workshop on Cross-Modal Learning in Real World , ICCV 2019](https://cromol.github.io/)
 
 PyTorch implementation for the [paper](https://arxiv.org/abs/1908.11310).
 ![alt text](https://v-sense.scss.tcd.ie/wp-content/uploads/2019/08/Screenshot-from-2019-08-26-15-59-18.png, "Results")
 
 
-We provide json files in coco format and thus they could be used with any framework that uses the same. For our experiments, we use the [PyTorch implementation provided here.](https://github.com/ruotianluo/ImageCaptioning.pytorch.git)
+We provide json files in coco format and thus they can be used with any framework that uses the same. For our experiments, we use the [PyTorch implementation provided here.](https://github.com/ruotianluo/ImageCaptioning.pytorch.git)
 
 Once the data is cleaned using the scripts provided, it can be plugged in to their code easily. Several web-crawlers are available for downloading the AVA Images. This data and the scripts should be sufficient to try the idea out on a different dataset. Hopefully, this page will be updated (blame procrastination if it doesn't) with cleaner and commented code and please check regularly. 
 
