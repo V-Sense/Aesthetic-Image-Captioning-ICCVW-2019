@@ -23,6 +23,7 @@ Until then, please contact ghosalk@tcd.ie for issues.
 4. AVA_TRAINING_FULL_DELIMITED_LDA_LABELLED.json: AVA-Captions json with LDA labels added for CNN training
 5. LDA_AVA_200_50_passes_10000_iter_.p: LDA model trained on AVA-Captions dataset
 6. _temp_topics_iteration_200.txt: Topic list corresponding to the model
+7. AVA_FULL_VALIDATION.json: AVA-Captions validation set of 9362 images and corresponding captions. Format same as coco validation set.
 ```
 ##### Scripts
 
